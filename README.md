@@ -7,3 +7,8 @@
 
 ## 온라인 코드 리뷰 과정
 * [텍스트와 이미지로 살펴보는 온라인 코드 리뷰 과정](https://github.com/next-step/nextstep-docs/tree/master/codereview)
+
+1. 자동차 이름을 입력받는다.
+2. 시도 횟수를 입력받는다.
+3. 랜덤으로 이동을 한다.
+4. 최종 우승자를 출력한다.
